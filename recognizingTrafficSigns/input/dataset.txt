@@ -1,0 +1,2 @@
+Model is trained on Kaggle GTSRB - German Traffic Sign Recognition Benchmark.
+Link to the dataset: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
